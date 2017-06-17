@@ -1,0 +1,83 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: purple;
+  color: #4B0082;
+
+  padding: 1px;
+}
+bod {
+  background-color: red;
+
+}
+
+.greyarea {
+  color: white;
+  background-color: grey;
+  height: 20px;
+
+  padding: 15px;
+}
+
+h3 {
+  color: purple;
+
+}
+.main {
+  width: auto;
+  overflow: autho;
+
+}
+
+div2 {
+  float: left;
+  width: 50%;
+  height: 70%;
+  border: none;
+  text-align: left;
+  position: relative;
+  background-color: #F8F8FF;
+
+
+    left: 135px;
+    position: sticky;
+    overflow: auto;
+
+}
+div4 {
+  float: right;
+  width: 36%;
+  height: 70%;
+  border: none;
+  text-align: left;
+  position: sticky;
+  overflow: auto;
+
+}
+.snowman {
+  width: 56%;
+    height: auto;
+}
+p {
+  color: grey;
+}
+
+h5 {
+  color: purple;
+}
+body {
+  /*align-items: center;*/
+  /*max-width:60%;
+min-width:800px;
+max-height:500px;*/
+min-height:21;
+overflow:auto;
+}*/
+
+
+#abc123 {
+  color: purple;
+}
