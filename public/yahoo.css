@@ -32,7 +32,7 @@ h3 {
 
 }
 
-div2 {
+.bigchunk {
   float: left;
   width: 50%;
   height: 70%;
@@ -47,7 +47,7 @@ div2 {
     overflow: auto;
 
 }
-div4 {
+.smallchunk {
   float: right;
   width: 36%;
   height: 70%;
@@ -55,6 +55,7 @@ div4 {
   text-align: left;
   position: sticky;
   overflow: auto;
+  background-color: white;
 
 }
 .snowman {
@@ -76,8 +77,3 @@ max-height:500px;*/
 min-height:21;
 overflow:auto;
 }*/
-
-
-#abc123 {
-  color: purple;
-}
